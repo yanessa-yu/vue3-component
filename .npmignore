@@ -1,0 +1,10 @@
+.vscode
+build
+node_modules
+packages
+test
+typings
+.gitignore
+.npmignore
+jest.config.jest
+tsconfig.json
